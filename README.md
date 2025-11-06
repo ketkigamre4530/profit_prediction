@@ -14,7 +14,7 @@ Built an end-to-end analytics workflow for bank products (Loans, Deposits, Credi
 ---
 
 ### Tech Stack
-**SQL**, **Python (pandas, matplotlib, prophet)**, **Power BI**, **MySQL**
+**SQL**,  **MySQL**
 
 ---
 
